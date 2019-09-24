@@ -9,6 +9,9 @@ namespace ConsoleApp1{
             double.TryParse(aux, out x);
             Console.WriteLine(" Esse é o X = "+ x);
             Console.WriteLine("Linha de teste adicional para um segundo commit");
+
+
+            //Teste com o GIT
         }
     }
 }
